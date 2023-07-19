@@ -66,25 +66,7 @@ color2.addEventListener('input', backgroundColor);
 
 
 
-// const users = [['ali', 22], ['ahmad', 88], ['jawid', 20]];
-// const userObject = Object.fromEntries(users);
-// console.log(users);
-// console.log(userObject);
 
-// const users = {ali: 22, ahmad: 88, jawid: 20};
-// const userArray = Object.entries(users);
-// console.log(users);
-// console.log(userArray);
-
-
-// const mainArray = [1,2,4,591,392,391,2,5,10,2,1,1,1,20,20];
-
-
-// function exam (arr) {
-//     arr.forEach((item) => {
-        
-//     });
-// }
 
 
 
