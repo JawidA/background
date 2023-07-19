@@ -1,3 +1,9 @@
+// import { without } from "lodash";
+var _ = require('lodash');
+
+console.log(_)
+
+
 const btn = document.querySelector('.addButton');
 const input = document.querySelector('.input');
 const ul = document.querySelector('.ul');
